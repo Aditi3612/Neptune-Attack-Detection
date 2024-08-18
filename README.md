@@ -1,1 +1,2 @@
 # Neptune-Attack-Detection
+This repository contains a project focused on detecting Neptune attacks within network activity logs using machine learning. The dataset includes labeled records indicating whether the activity is normal or a Neptune attack, a type of denial-of-service (DoS) attack. An XGBoost classifier is employed to train the model on the provided training set, with the objective of accurately predicting the presence of attacks in the test set. The goal is to enhance network security by effectively identifying malicious activities.
